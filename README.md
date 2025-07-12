@@ -29,7 +29,7 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
 ```
-### node commands:
+### Node commands:
 - GitHub Cloudflare Tunnel
 ```
 cd pterodactyl
@@ -110,4 +110,4 @@ chmod +x playit-linux-amd64
 - 1.21.6 -> 147
 - 1.21.7 -> 17
 
-panel-Fox code made by joy c InfinityForge
+panel-fox code made by joy c InfinityForge

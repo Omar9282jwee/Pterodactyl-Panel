@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/Downloads-4.1K-Green.svg)](https://github.com/Omar9282jwee/Pterodactyl-Panel/releases)
+   [![Generic badge](https://img.shields.io/badge/Downloads-4.1K-Green.svg)](https://github.com/Omar9282jwee/Pterodactyl-Panel/releases)
 [![Generic badge](https://img.shields.io/badge/Pterodactyl-1.11.X-blue.svg)](#)
 
 

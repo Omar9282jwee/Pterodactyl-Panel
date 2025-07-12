@@ -59,6 +59,8 @@ chmod +x playit-linux-amd64
 
 
 
+<img src="images/list.png" align="left" alt="Logo" width="42" height="42" />
+
 ### Paper/versions/build
 
 - 1.8.8 - 445

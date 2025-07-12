@@ -20,3 +20,9 @@ python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Pan
 - Wings:
 
 - bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
+
+
+
+```
+img(alt="Awesome dog" width="100" href=`${baseUrl}/image/cool-dog.jpg`)
+```

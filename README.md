@@ -6,7 +6,7 @@
 <img src="images/icon.png" align="right" />
 
 
-- Panel-Fox code made by joy c InfinityForge
+- Panel-wings-node
 
 - Pterodactyl Panel install Fox
 
@@ -107,3 +107,5 @@ chmod +x playit-linux-amd64
 - 1.21.5  -> 25
 - 1.21.6 -> 147
 - 1.21.7 -> 17
+
+panel-Fox code made by joy c InfinityForge

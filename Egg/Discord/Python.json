@@ -5,7 +5,7 @@
         "update_url": null
     },
     "exported_at": "2024-12-28T09:14:31+00:00",
-    "name": "python generic",
+    "name": "Python",
     "author": "parker@parkervcp.com",
     "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https:\/\/github.com\/Ispira\/pixel-bot",
     "features": [],

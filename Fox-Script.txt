@@ -1,0 +1,11 @@
+24\7 Fox
+
+python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/247.py)
+
+Pterodactyl Panel Fox
+
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/panel-fox)
+
+Pterodactyl Wings Fox
+
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)

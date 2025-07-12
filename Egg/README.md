@@ -8,4 +8,6 @@ List of custom made/public pterodactyl panel eggs (Server configurations) <br>
 Currently, all eggs on this list support pterodactyl `v1.11.2`  - least <br>
 
  Download Latest Pack!  <br>
-<a href="https://github.com/Omar9282jwee/Pterodactyl-Panel/releases/download/V2.0/Eggs-Pack-v2.zip">
+<a href="https://github.com/Omar9282jwee/Pterodactyl-Panel/releases/download/V2.0/Eggs-Pack-v2.zip"
+ width="393" height="59">
+</a>

@@ -6,11 +6,11 @@ Pterodactyl Panel install Fox
 
 Panel-wings node
 
-- 24/7:
+# - 24/7:
 
-'''
+```
 python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/247.py)
-'''
+```
 
 - Panel: 
 
@@ -22,7 +22,3 @@ python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Pan
 - bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
 
 
-
-```
-img(alt="Awesome dog" width="100" href=`${baseUrl}/image/cool-dog.jpg`)
-```

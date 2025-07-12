@@ -2,8 +2,6 @@
 [![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](#)
 [![Generic badge](https://img.shields.io/badge/Pterodactyl-1.11.X-blue.svg)](#)
 
-<img src="images/icon.png" align="right" />
-
 # Pterodactyl Eggs
 
 https://github.com/DEVBenSon/pterodactyl-eggs/releases/download/v2.0/Eggs-Pack-v2.zip

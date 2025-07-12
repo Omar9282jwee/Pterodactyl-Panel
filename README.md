@@ -1,10 +1,10 @@
 # Pterodactyl-Panel
 
-panel-jtg code made by joy c InfinityForge
+- panel-jtg code made by joy c InfinityForge
 
-Pterodactyl Panel install Fox
+- Pterodactyl Panel install Fox
 
-Panel-wings node
+- Panel-wings node
 
 ### 24/7
 
@@ -40,7 +40,14 @@ cd wings
 ```
 docker-compose up -d --force-recreate
 ```
+### ip server 
+```
+wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.26/playit-linux-amd64
+chmod +x playit-linux-amd64
+./playit-linux-amd64
+```
 
-### video test 
 
-https://mega.nz/file/mVQjwQyS#7Buly6ZYxzw3NuUy10kJKO32e3I995UFJ_mO-8z4xpw
+
+### Paper/versions/builds
+

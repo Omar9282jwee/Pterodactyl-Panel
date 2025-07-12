@@ -23,3 +23,7 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
 ```
+
+# video test 
+
+https://mega.nz/file/mVQjwQyS#7Buly6ZYxzw3NuUy10kJKO32e3I995UFJ_mO-8z4xpw

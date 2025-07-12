@@ -24,7 +24,7 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
 ```
 ### node commands:
-- GitHub Cloudflare Tunnel box
+- GitHub Cloudflare Tunnel
 ```
 cd pterodactyl
 ```

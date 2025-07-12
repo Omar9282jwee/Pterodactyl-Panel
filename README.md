@@ -1,12 +1,9 @@
+[![Generic badge](https://img.shields.io/badge/Downloads-4.1K-Green.svg)](https://github.com/Omar9282jwee/Pterodactyl-Panel/releases)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](#)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.11.X-blue.svg)](#)
+
+
 <img src="images/68747470733a2f2f63646e2e707465726f64616374796c2e696f2f6c6f676f732f6e65772f707465726f64616374796c5f6c6f676f2e706e67.png" align="right" />
-
-
-
-
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pterodactyl/panel/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
-![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
-![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/panel/latest/total?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/pterodactyl/panel?style=for-the-badge)
 
 
 # Pterodactyl Panel

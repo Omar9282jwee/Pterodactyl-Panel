@@ -1,11 +1,16 @@
-24\7 Fox
+Hosting  Free install
 
-python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/247.py)
+Pterodactyl Panel
+https://github.com/Omar9282jwee/Pterodactyl-Panel
 
-Pterodactyl Panel Fox
+Puffer Panel
+https://github.com/Omar9282jwee/Puffer-Panel
 
-bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/panel-fox)
+Draco Panel
+https://github.com/Omar9282jwee/Draco-Panel
 
-Pterodactyl Wings Fox
+Dragon Panel
+https://github.com/Omar9282jwee/Dragon-panel
 
-bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
+Skyport Panel
+https://github.com/Omar9282jwee/Skyport-Panel

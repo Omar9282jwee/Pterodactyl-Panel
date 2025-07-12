@@ -6,7 +6,7 @@
 <img src="images/icon.png" align="right" />
 
 
-- Pterodactyl Panel version 1.11.x
+- Pterodactyl Panel version 1.11.X
 
 - Pterodactyl Panel install Fox
 

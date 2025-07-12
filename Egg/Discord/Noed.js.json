@@ -5,7 +5,7 @@
         "version": "PTDL_v2"
     },
     "exported_at": "2024-06-02T14:43:51+00:00",
-    "name": "node.js generic",
+    "name": "Node.js",
     "author": "parker@parkervcp.com",
     "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
     "features": null,

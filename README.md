@@ -6,7 +6,7 @@
 
 - Panel-wings node
 
-### 24/7
+### 24/7-hour-online-code
 
 ```
 python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/247.py)
@@ -53,7 +53,7 @@ chmod +x playit-linux-amd64
 
 
 
-### Paper/versions/builds
+### Paper/versions/build
 
 - 1.8.8 - 445
 - 1.9.4   -> 775

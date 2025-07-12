@@ -11,6 +11,8 @@
 - Pterodactyl Panel install Fox
 
 - Panel-Wings-Node
+- GitHub  + New repository 
+- +    Codespaces
 
 ### 24/7-hour-online-code
 

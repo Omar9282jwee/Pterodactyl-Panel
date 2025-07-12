@@ -6,11 +6,11 @@
 <img src="images/icon.png" align="right" />
 
 
-- Panel-wings-node
+- Pterodactyl Panel version 1.11.x
 
 - Pterodactyl Panel install Fox
 
-- Panel-wings node
+- Panel-wingsnode
 
 ### 24/7-hour-online-code
 

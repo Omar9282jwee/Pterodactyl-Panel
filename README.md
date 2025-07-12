@@ -12,7 +12,7 @@
 
 - Panel-Wings-Node
 - GitHub  + New repository 
--  + Codespaces
+-  ➕️ Codespaces
 
 ### 24/7-hour-online-code
 

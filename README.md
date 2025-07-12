@@ -8,7 +8,9 @@ Panel-wings node
 
 - 24/7:
 
-- ''' python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/247.py) '''
+'''
+python3 <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/247.py)
+'''
 
 - Panel: 
 

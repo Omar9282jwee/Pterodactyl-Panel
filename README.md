@@ -2,7 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](#)
 [![Generic badge](https://img.shields.io/badge/Pterodactyl-1.11.X-blue.svg)](#)
 
-# Pterodactyl-Panel
+# Pterodactyl Panel
 <img src="images/icon.png" align="right" />
 
 
@@ -10,7 +10,7 @@
 
 - Pterodactyl Panel install Fox
 
-- Panel-wingsnode
+- Panel-Wings-Node
 
 ### 24/7-hour-online-code
 

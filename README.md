@@ -1,5 +1,6 @@
-<img src="images/icon.png" align="right" />
 # Pterodactyl-Panel
+<img src="images/icon.png" align="right" />
+
 
 - panel-jtg code made by joy c InfinityForge
 

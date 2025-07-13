@@ -44,9 +44,6 @@ sudo su
 nano /etc/pterodactyl/config.yml
 ```
 ```
-ls
-```
-```
 cd wings
 ```
 ```
@@ -62,8 +59,6 @@ chmod +x playit-linux-amd64
 ```
 ./playit-linux-amd64 
 ```
-### Video test hosting
-- https://youtu.be/DEX4RPmEapg
 
 
 <img src="images/list.png" align="left" alt="Logo" width="42" height="42" />

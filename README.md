@@ -44,6 +44,9 @@ sudo su
 nano /etc/pterodactyl/config.yml
 ```
 ```
+ls
+```
+```
 cd wings
 ```
 ```

@@ -49,11 +49,9 @@ cd wings
 ```
 docker-compose up -d --force-recreate
 ```
-### ip server 
+### ip-costom-Minecraft
 ```
-wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.26/playit-linux-amd64
-chmod +x playit-linux-amd64
-./playit-linux-amd64
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-scripts/refs/heads/main/install-playit.sh)
 ```
 ### for again start ->
 ```

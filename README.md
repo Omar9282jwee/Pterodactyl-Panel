@@ -15,6 +15,11 @@
 - GitHub  + New repository 
 -  ➕️ Codespaces
 
+### VPS-install
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/vps-install)
+```
+
 ### 24/7-hour-online-code
 
 ```

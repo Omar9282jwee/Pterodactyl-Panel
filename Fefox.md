@@ -32,6 +32,10 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/
 ```
 bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/wings-fox)
 ```
+Wings-CodeSandbox-error-/etc/pterodactyl/config.yml
+```
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Pterodactyl-Panel/refs/heads/main/Wings-CodeSandbox)
+```
 
 ### Node commands:
 

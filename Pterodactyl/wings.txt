@@ -1,0 +1,89 @@
+#!/bin/bash
+# Made by Code X Verse
+
+# Colors
+RED='\033[0;31m'
+GRN='\033[0;32m'
+CYN='\033[0;36m'
+YEL='\033[1;33m'
+NC='\033[0m' # No Color
+
+clear
+
+echo -e "${YEL}"
+cat << "EOF"
+ ██████╗ ██████╗ ██████╗ ███████╗    ██╗  ██╗    ██╗   ██╗███████╗██████╗ ███████╗███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝    ╚██╗██╔╝    ██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝
+██║     ██║   ██║██║  ██║█████╗       ╚███╔╝     ██║   ██║█████╗  ██████╔╝███████╗█████╗  
+██║     ██║   ██║██║  ██║██╔══╝       ██╔██╗     ╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝  
+╚██████╗╚██████╔╝██████╔╝███████╗    ██╔╝ ██╗     ╚████╔╝ ███████╗██║  ██║███████║███████╗
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+EOF
+echo -e "${NC}"
+
+echo -ne "${GRN}🔥 Please Subscribe to support more tools by Code X Verse! 🔥\n"
+for i in {1..3}; do
+  echo -ne "${CYN}Subscribing"
+  for dot in {1..3}; do
+    echo -n "."
+    sleep 0.3
+  done
+  echo -ne "\r                     \r"
+done
+echo -e "${GRN}✅ Thanks for Subscribing!\n${NC}"
+sleep 1
+
+echo -e "${YEL}📦 Installing Pterodactyl Wings with Docker...${NC}"
+mkdir -p pterodactyl/wings
+cd pterodactyl/wings || exit
+
+
+echo -e "${CYN}📝 Generating docker-compose.yml...${NC}"
+cat <<EOF > docker-compose.yml
+version: '3.8'
+
+services:
+  wings:
+    image: ghcr.io/pterodactyl/wings:v1.6.1
+    restart: always
+    networks:
+      - wings0
+    ports:
+      - "8080:8080"
+      - "2022:2022"
+      - "443:443"
+    tty: true
+    environment:
+      TZ: "UTC"
+      WINGS_UID: 988
+      WINGS_GID: 988
+      WINGS_USERNAME: pterodactyl
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /var/lib/docker/containers/:/var/lib/docker/containers/
+      - /etc/pterodactyl/:/etc/pterodactyl/
+      - /var/lib/pterodactyl/:/var/lib/pterodactyl/
+      - /var/log/pterodactyl/:/var/log/pterodactyl/
+      - /tmp/pterodactyl/:/tmp/pterodactyl/
+      - /etc/ssl/certs:/etc/ssl/certs:ro
+      # Optional: If upgrading from older daemon versions
+      # - /srv/daemon-data/:/srv/daemon-data/
+      # Optional: Required for SSL if using Let's Encrypt
+      # - /etc/letsencrypt/:/etc/letsencrypt/
+
+networks:
+  wings0:
+    name: wings0
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.21.0.0/16
+    driver_opts:
+      com.docker.network.bridge.name: wings0
+EOF
+
+echo -e "${GRN}🚀 Starting Wings container...${NC}"
+docker-compose up -d
+
+# Final message
+echo -e "${GRN}✅ Wings installation complete!${NC}"

@@ -85,7 +85,7 @@ services:
     image: ghcr.io/pterodactyl/panel:v1.11.11
     restart: always
     ports:
-      - "8030:80"
+      - "80:80"
       - "4433:443"
     links:
       - database

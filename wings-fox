@@ -1,7 +1,7 @@
 #!/bin/bash
-# Made by Joy+jtg
+# Made by Joy+Fox
 
-echo "📦 Installing Pterodactyl wings with Docker..."
+echo "📦 Installing Pterodactyl wings update v1.11.13 with Docker..."
 
 # Step 1: Create directory structure
 mkdir -p pterodactyl/wings
@@ -13,7 +13,7 @@ version: '3.8'
 
 services:
   wings:
-    image: ghcr.io/pterodactyl/wings:v1.6.1
+    image: ghcr.io/pterodactyl/wings:v1.11.13
     restart: always
     networks:
       - wings0

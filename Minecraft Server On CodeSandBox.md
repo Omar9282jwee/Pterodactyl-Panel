@@ -1,4 +1,7 @@
-###Minecraft Server On CodeSandBox
+### Minecraft Server On CodeSandBox
+
+### Universal CodeSandbox
+
 
 wget (your link) or for 1.20.4 use the following command
 

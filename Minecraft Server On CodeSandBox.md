@@ -1,13 +1,17 @@
-# Minecraft Server On CodeSandBox 
+###Minecraft Server On CodeSandBox
 
-> - ```mkdir mc && cd mc ```
-> 
-> - ```wget YOUR_LINK_HERE```
-> 
-> - ```java -Xmx6144M -Xms6144M -jar server.jar nogui```
-> 
-> - ``` cd plugins```
-> 
-> - ``` wget https://github.com/playit-cloud/playit-minecraft-plugin/releases/latest/download/playit-minecraft-plugin.jar```
-> 
-> -  version List https://gist.github.com/osipxd/6119732e30059241c2192c4a8d2218d9
+wget (your link) or for 1.20.4 use the following command
+
+```wget https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/493/downloads/paper-1.20.4-493.jar```
+
+```sudo apt update && apt upgrade```
+
+```java -Xmx2048M -Xms2048M -jar server.jar nogui```
+
+```java -Xmx4096M -Xms4096M -jar server.jar nogui```
+
+```java -Xmx6144M -Xms6144M -jar server.jar nogui```
+
+```java -Xmx8196M -Xms8196M -jar server.jar nogui```
+
+```python3  <(curl -s https://raw.githubusercontent.com/unnamed-boy07/pterodactyl/refs/heads/main/24-7)```

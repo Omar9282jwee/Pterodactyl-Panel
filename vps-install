@@ -1,7 +1,15 @@
 #!/bin/bash
 
 # Update and upgrade the system
-echo "Updating package list..."
+echo "Updating package list... 
+  ______          _            __   __
+ |___  /         | |           \ \ / /
+    / / __ _ _ __| | _____  ___ \ V / 
+   / / / _` | '__| |/ / _ \/ __| > <  
+  / /_| (_| | |  |   < (_) \__ \/ . \ 
+ /_____\__,_|_|  |_|\_\___/|___/_/ \_\
+                                                                           
+"
 apt update -y
 echo "Upgrading packages..."
 apt upgrade -y

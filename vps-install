@@ -1,5 +1,18 @@
 #!/bin/bash
 
+echo "
+  ______          _            __   __
+ |___  /         | |           \ \ / /
+    / / __ _ _ __| | _____  ___ \ V / 
+   / / / _\` | '__| |/ / _ \/ __| > <  
+  / /_| (_| | |  |   < (_) \__ \/ . \ 
+ /_____\__,_|_|  |_|\_\___/|___/_/ \_\
+
+
+                  ZarkosX
+"
+
+
 # Update and upgrade the system
 echo "Updating package list..."
 apt update -y

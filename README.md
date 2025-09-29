@@ -15,4 +15,4 @@
 - GitHub  + New repository 
 -  ➕️ Codespaces
 
-panel-fox code made by joy c InfinityForge
+Panel-ZarkosX code made by joy c InfinityForge
